@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed</h1>
-<h3 align="center">I'm presently learning frontend web development</h3>
+<h3 align="center">I'm work as Frontend Developer @Facilio</h3>
 
 <p align="left"> <a href="https://twitter.com/mhdsas" target="blank"><img src="https://img.shields.io/twitter/follow/mhdsas?logo=twitter&style=for-the-badge" alt="mhdsas" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend projects based on React**
+- 🔭 I’m currently working on **Frontend projects based on Vue,React**
 
 - 📝 I regularly write articles on [https://hashnode.com/@mohammedsas](https://hashnode.com/@mohammedsas)
 
